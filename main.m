@@ -13,7 +13,7 @@ element_space=0.5*lamda;
 H=circle_num;
 %L=circle_num*(1.5)+rand();
 %-----遗传算法参数
-genetic_num=400;%遗传代数
+genetic_num=200;%遗传代数
 group_num=100;%种群数
 %element_sum=201;
 %trunc=0.5;%截断阀值（经验值）
